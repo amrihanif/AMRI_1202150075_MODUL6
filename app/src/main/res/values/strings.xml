@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AMRI_1202150075_MODUL6</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+</resources>
